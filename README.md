@@ -1,4 +1,4 @@
-### Olá! Eu sou Luana Nascimento👋
+### Olá! Sou Luana Nascimento, desenvolvedora Full Stack Java Jr e estudante de análise e desenvolvimento de sistemas👋
 
 <div align="center">
   <a href="https://github.com/luanaadn">
